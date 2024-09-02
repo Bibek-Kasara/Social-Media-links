@@ -1,0 +1,32 @@
+@media screen and (max-width: 400px) {
+  .container {
+    padding: 5px 25px 10px 25px;
+  }
+  .container p {
+    font-size: 16px;
+  }
+  .pad-1 img {
+    height: 50px;
+    padding: 10px 0px 5px 0px;
+  }
+  #name {
+    line-height: 20px;
+  }
+  #name h1 {
+    font-size: 20px;
+  }
+  #developer {
+    line-height: 25px;
+    padding: 10px 0px;
+  }
+  #developer h2 {
+    font-size: 20px;
+  }
+  .pad-2 div {
+    margin-right: 30px;
+  }
+  .pad-2 a {
+    font-size: 16px;
+    margin: 20px 0px;
+  }
+}/*# sourceMappingURL=mediaquries.css.map */
