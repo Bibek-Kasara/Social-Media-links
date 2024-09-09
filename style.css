@@ -89,6 +89,9 @@ body {
   transform: scale(1.3);
   transition: 0.3s linear;
 }
+#gmail{
+  font-size: 12px;
+}
 
 .pad-2 a:hover {
   transform: scale(1.5);
